@@ -17,3 +17,4 @@ if (height === '' || height < 0 || isNaN(height)){
     results.innerHTML = `<span> Your BMI is :- ${bmi}</Span>`;
   }
 });
+
